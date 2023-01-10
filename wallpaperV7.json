@@ -76,14 +76,14 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfallllllll",
-      "image":"https://unsplash.com/photos/gaUsxLi_bAc/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTV8fHdhbGxwYXBlciUyMGZvciUyMHNtYXJ0cGhvbmV8ZW58MHx8fHwxNjczMjgyNzc0&force=true"
+      "name_category": "Dark",
+      "title":"Leaves",
+      "image":"https://mobimg.b-cdn.net/v3/fetch/b4/b4d430320229744245679e19e50b6f03.jpeg"
     },
     {
       "id": 2,
       "name_category": "Dark",
-      "title": "Leaves",
+      "title": "Fire",
       "image": "https://mobimg.b-cdn.net/v3/fetch/15/151b6fece4f86816128550113007bfa2.jpeg"
     },
     {
