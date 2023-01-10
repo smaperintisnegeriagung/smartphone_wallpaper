@@ -7,15 +7,15 @@
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
-      "backup_ads_natives":"",
+      "backup_ads_natives":"null",
       "backup_ads_banner":"null",
       "backup_ads_intertitial":"null",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
       "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
-      "on_off_native_listview":"",
       "interval_intertitial": 5,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
@@ -67,7 +67,7 @@
     {
       "id": 3,
       "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "image": "https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
 
     }
   ],
@@ -78,7 +78,7 @@
       "id":1,
       "name_category": "Nature",
       "title":"Waterfall",
-      "image":"https://unsplash.com/photos/uoteo7uO5OI/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8d2FsbHBhcGVyJTIwZm9yJTIwc21hcnRwaG9uZXxlbnwwfHx8fDE2NzMyODI3NzQ&force=true"
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
     },
     {
       "id": 2,
@@ -109,7 +109,7 @@
       "id":6,
       "name_category": "Car",
       "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
     }
   ]
 }
