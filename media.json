@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "path": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg",
+      "type": "image"
+    },
+    {
+      "path": "https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg",
+      "type": "image"
+    },
+    {
+      "path": "https://www.pexels.com/download/video/5544054/",
+      "type": "video"
+    }
+  ]
+}
