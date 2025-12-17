@@ -27,18 +27,18 @@
     },
     {
       "no": 8,
-      "path": "https://www.pexels.com/download/video//",
-      "type": "video"
+      "path": "https://images.pexels.com/photos/1624496/pexels-photo-1624497.jpeg",
+      "type": "image"
     },
     {
       "no": 9,
-      "path": "https://www.pexels.com/download/video//",
-      "type": "video"
+      "path": "https://images.pexels.com/photos/1624496/pexels-photo-1624499.jpeg",
+      "type": "image"
     },
     {
       "no": 10,
-      "path": "https://www.pexels.com/download/video//",
-      "type": "video"
+      "path": "https://images.pexels.com/photos/1624496/pexels-photo-1624498.jpeg",
+      "type": "image"
     }
   ]
 }
