@@ -39,6 +39,16 @@
       "no": 10,
       "path": "https://images.pexels.com/photos/33683976/pexels-photo-33683976.jpeg",
       "type": "image"
+    },
+    {
+      "no": 11,
+      "path": "https://archive.org/download/sanrio-2025-40th-wallpaper-mobile/Sanrio_2025_40th_Wallpaper_mobile.jpg",
+      "type": "image"
+    },
+    {
+      "no": 12,
+      "path": "https://archive.org/download/sanrio-2025-40th-wallpaper-mobile/kawaii-kuromi-sanrio-wallpaper-scaled.jpg",
+      "type": "image"
     }
   ]
 }
